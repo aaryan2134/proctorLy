@@ -23,8 +23,7 @@ import numpy as np
 from google.colab.patches import cv2_imshow
 import dlib
 
-!git clone https://github.com/Toteja/Headphones_Dataset
-
+!git clone https://github.com/RishitToteja/Headphones_Images_Dataset
 import os
 
 main_dir = "/content/Headphones_Dataset"
